@@ -1,0 +1,10 @@
+node_modules
+dist
+shots
+*.log
+.dev.pid
+.check*.mjs
+.debug.mjs
+.zoom*.mjs
+deploy/
+.vercel
